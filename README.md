@@ -1,5 +1,3 @@
-# collections
-Any resource from other people, not original
 ## contents
 + [TOOLS](#TOOLS)
 + [Ebooks](#Ebooks)
@@ -58,6 +56,7 @@ Any resource from other people, not original
 ## People
 + 💖 Friedcat  
   + http://news.8btc.com/tracking-friedcat-after-his-missing-in-2015
+  + https://github.com/ryepdx/asicminer-watch
   + _
 + Jin-Cheng Liu(刘锦程) https://scholar.google.com/citations?user=hAkSR2wAAAAJ&hl=zh-CN
 + 任正非 https://github.com/ttpianobirds/RenZhengfei
