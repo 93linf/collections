@@ -60,14 +60,15 @@
   + _
 + Jin-Cheng Liu(刘锦程) https://scholar.google.com/citations?user=hAkSR2wAAAAJ&hl=zh-CN
 + 任正非 https://github.com/ttpianobirds/RenZhengfei
-+ [temp]the style of his homepage:
-  + https://github.com/manjunath5496  
++ [temp]: github
+  + https://github.com/manjunath5496  the style of his homepage
   + https://github.com/guofei9987  good in tech
   + https://github.com/ExcaliburEX   his diary: https://github.com/ExcaliburEX/Daily-Plan-In-Graduate-Life
   + https://github.com/taizilongxu very active in github
   + https://github.com/tuian  hacker
   + https://github.com/solomonxie  his annals reports：https://github.com/solomonxie/blog-in-the-issues/issues/12
-  
+  + https://github.com/BigDataScholar/TheKingOfBigData big Data 
+  + https://github.com/berwin/Blog front end
 + [temp] a book comment https://github.com/baohenglin/ShuXiangChaYunRunRenSheng/blob/master/%E3%80%8A%E4%B9%A6%E9%A6%99%E8%8C%B6%E9%9F%B5%E6%B6%A6%E4%BA%BA%E7%94%9F%E3%80%8B/%E3%80%8A%E5%A5%87%E7%89%B9%E7%9A%84%E4%B8%80%E7%94%9F%E3%80%8B/%E5%A5%87%E7%89%B9%E7%9A%84%E4%B8%80%E7%94%9F.md
 + [temp] https://github.com/feilengcui008/distributed_system_readings
 
