@@ -11,6 +11,7 @@
 ## TOOLS
 + crop pdf https://github.com/mbaeuerle/Briss-2.0
 + otter-browser https://github.com/OtterBrowser/otter-browser
++ ff https://ffbinaries.com/downloads  
 + English 
   + https://wikidiff.com/point/dot+&cd=10&hl=zh-CN&ct=clnk
   + https://github.com/protogenesis/New-Concept-English
