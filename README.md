@@ -43,6 +43,8 @@
   + 💖 https://github.com/jackfrued/Python-100-Days/tree/master/Day01-15   
   + [temp] https://github.com/python/cpython/tree/main/Tools/demo
   + https://github.com/lanzhiwang/awesome-huzhi awesome
++ AI
+  + https://github.com/MLEveryday/100-Days-Of-ML-Code
 + C https://github.com/wangdoc/clang-tutorial/tree/main/docs
 + CPP http://www.cplusplus.com/doc/tutorial/
 + C# https://github.com/head-first-csharp/fourth-edition#additional-material-that-you-can-download
