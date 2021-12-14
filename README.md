@@ -55,7 +55,7 @@
 ## Projects
 + 《自己动手实现Lua》随书源代码 https://github.com/zxh0/luago-book
 + 💖 https://github.com/521xueweihan/HelloGitHub
-+ 💖💖 https://gitee.com/rd2coding/Road2Coding
++   💖 https://gitee.com/rd2coding/Road2Coding
 + https://github.com/TonyChen56/160-Crackme
 
 ## People
@@ -93,6 +93,7 @@
 
 ## Others
   + https://github.com/CyC2018/CS-Notes
+  + 💖 https://github.com/ossu
   + https://github.com/taizilongxu/interview_python
   + https://github.com/apachecn/Interview
   
