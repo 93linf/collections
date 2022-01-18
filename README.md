@@ -51,6 +51,7 @@
 + lua https://cloudwu.github.io/lua53doc/manual.html
 + FP https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn/blob/master/FunctionalProgrammingForTheRestOfUs.cn.md
 + parsing techniques 《解析技术》 https://github.com/duguying/parsing-techniques
++ guide https://github.com/mohammadrabetian/backend-developer-university
 
 ## Projects
 + 《自己动手实现Lua》随书源代码 https://github.com/zxh0/luago-book
