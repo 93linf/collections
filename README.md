@@ -103,6 +103,8 @@
   + [💖] https://github.com/freeCodeCamp/freeCodeCamp
   + https://github.com/taizilongxu/interview_python
   + https://github.com/apachecn/Interview
+  + [temp] http://paulrougieux.github.io/vim.html  vim and linux tools
+  +  howto  hexo搭建 静态博客  配置
   
   
 
