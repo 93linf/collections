@@ -108,6 +108,7 @@
   +  howto  hexo搭建 静态博客  配置
     +[temp]    https://anatasluo.github.io/about/  blog building
     +[temp] https://github.com/yutkat  style of homepage
+    + [temp]  https://miroox.github.io/blog/ Very good style and similar to my designed functionally
   
   
 
