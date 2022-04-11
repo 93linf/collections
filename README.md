@@ -19,6 +19,7 @@
 + emoji https://getemoji.com/+&cd=1&hl=zh-CN&ct=clnk
 + cloud https://github.com/apachecn/CDNDrive  https://github.com/Hsury/BiliDrive/  https://github.com/huqianshan/BiliDrive-Minus
 + [temp] https://github.com/akinohana/BuMoyu
++ py https://github.com/brentvollebregt/auto-py-to-exe
 
 ## Ebooks
 +  Ruan yifeng  https://github.com/ruanyf/free-books
