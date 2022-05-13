@@ -97,6 +97,7 @@
   + https://github.com/hello2dj/blog
   + https://github.com/ruanyf/weekly/tree/master/docs
   + 【temp】https://github.com/wizardforcel/it-ebooks-blog
+  + https://mabbs.github.io/2022/02/14/move.html  nice
 + LSP/LSIF https://microsoft.github.io/language-server-protocol/implementors/servers/
 
 ## Others
