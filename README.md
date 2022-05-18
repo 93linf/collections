@@ -98,6 +98,12 @@
   + https://github.com/ruanyf/weekly/tree/master/docs
   + 【temp】https://github.com/wizardforcel/it-ebooks-blog
   + https://mabbs.github.io/2022/02/14/move.html  nice
+  + https://github.com/i207M/blog-comment/issues  i207m.top
+  + howto  hexo搭建 静态博客  配置       
+    + [temp]    https://anatasluo.github.io/about/  blog building
+    + [temp] https://github.com/yutkat  style of homepage
+    + [temp]  https://miroox.github.io/blog/ Very good style and similar to my designed functionally
+  
 + LSP/LSIF https://microsoft.github.io/language-server-protocol/implementors/servers/
 
 ## Others
@@ -108,10 +114,6 @@
   + https://github.com/apachecn/Interview
   + [temp] https://github.com/DWCTOD/interview
   + [temp] http://paulrougieux.github.io/vim.html  vim and linux tools
-  +  howto  hexo搭建 静态博客  配置
-    +[temp]    https://anatasluo.github.io/about/  blog building
-    +[temp] https://github.com/yutkat  style of homepage
-    + [temp]  https://miroox.github.io/blog/ Very good style and similar to my designed functionally
   
   
 
