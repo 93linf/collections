@@ -93,14 +93,17 @@
 + FlameGraph https://github.com/brendangregg/FlameGraph 
 + procrastination 拖延
   + 单核工作法  https://github.com/BetterTuring/turingWeChatGroups/blob/master/algorithms/%E7%AC%AC02%E6%9C%9F%E2%80%94%E5%8D%95%E6%A0%B8%E5%B7%A5%E4%BD%9C%E6%B3%95%E5%9B%BE%E8%A7%A3/%E5%8D%95%E6%A0%B8%E5%B7%A5%E4%BD%9C%E6%B3%95%E5%9B%BE%E8%A7%A3%20%E9%98%85%E8%AF%BB%E8%AE%A1%E5%88%92%E2%80%94%E9%98%BF%E7%8B%B8%E4%B8%8D%E6%AD%8C.md 
+  
 + blog
   + https://github.com/hello2dj/blog
   + https://github.com/ruanyf/weekly/tree/master/docs
   + 【temp】https://github.com/wizardforcel/it-ebooks-blog
   + https://mabbs.github.io/2022/02/14/move.html  nice
   + https://github.com/i207M/blog-comment/issues  i207m.top
+  + https://github.com/nonocast/me/issues  http://nonocast.cn
+  +  
   + howto  hexo搭建 静态博客  配置       
-    + [temp]    https://anatasluo.github.io/about/  blog building
+    +  https://anatasluo.github.io/about/  blog building and its style
     + [temp] https://github.com/yutkat  style of homepage
     + [temp]  https://miroox.github.io/blog/ Very good style and similar to my designed functionally
   
