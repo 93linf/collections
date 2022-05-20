@@ -2,6 +2,7 @@
 + [TOOLS](#TOOLS)
 + [Ebooks](#Ebooks)
 + [Document](#Document)
++ [Math](#Math)
 + [programing](#Programing)
 + [Roadmap](#Roadmap)
 + [Projects](#Projects)
@@ -29,7 +30,8 @@
 + free libraries  https://gist.github.com/gongzhitaao/9ed1ee66134c6f9feab6eade1fc5876e
 + https://github.com/justjavac/free-programming-books-zh_CN
 + https://relph1119.github.io/mysql-learning-notes/#/mysql/01-%E8%A3%85%E4%BD%9C%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AA%E5%B0%8F%E7%99%BD-%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86MySQL  MySQL
-+ 
++ https://github.com/ivito/cookbook  old computer books （8 years ago）
++ https://github.com/julycoding/The-Art-Of-Programming-By-July
 
 ## Document
 + web https://developer.mozilla.org/
@@ -38,7 +40,10 @@
 + www.ibm.com/docs
 + https://github.com/apachecn
   + https://github.com/apachecn/home/tree/master/docs
-  +   
++ https://github.com/aosabook/500lines
++ https://github.com/shlomi-noach/awesome-mysql
+## Math
++ https://github.com/rossant/awesome-math
 
 ## Programing
 + python
@@ -47,18 +52,31 @@
   + [temp] https://github.com/python/cpython/tree/main/Tools/demo
   + https://github.com/lanzhiwang/awesome-huzhi awesome
 + AI
-  + https://github.com/MLEveryday/100-Days-Of-ML-Code
+  + https://github.com/josephmisiti/awesome-machine-learning  A curated list of awesome machine learning frameworks, libraries and software (by language). 
+  + https://github.com/ChristosChristofidis/awesome-deep-learning
++ CV
+  + https://github.com/jbhuang0604/awesome-computer-vision  A curated list of awesome computer vision resources
 + C https://github.com/wangdoc/clang-tutorial/tree/main/docs
++ C++  https://github.com/fffaraz/awesome-cpp#audio A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. 
+
 + CPP http://www.cplusplus.com/doc/tutorial/
 + C# https://github.com/head-first-csharp/fourth-edition#additional-material-that-you-can-download
 + lua https://cloudwu.github.io/lua53doc/manual.html
 + FP https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn/blob/master/FunctionalProgrammingForTheRestOfUs.cn.md
 + parsing techniques 《解析技术》 https://github.com/duguying/parsing-techniques
 
-## Roadmap
+## 💖Roadmap
 + https://github.com/frank-lam/fullstack-tutorial
 + guide https://github.com/mohammadrabetian/backend-developer-university
 + https://dunwu.github.io/
++ https://github.com/coells/100days  100 days of algorithms (ipynb)
++ https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap  DEEP LEARNING
++ https://github.com/MLEveryday/100-Days-Of-ML-Code 
++ https://github.com/redguardtoo/mastering-emacs-in-one-year-guide
++ https://github.com/niudai/How-to-be-a-good-programmer
++ https://github.com/USTC-Resource/USTC-Course
++ https://github.com/GeLee-Q/OI_Sharing
+
 
 ## Projects
 + 《自己动手实现Lua》随书源代码 https://github.com/zxh0/luago-book
@@ -85,14 +103,23 @@
   + https://github.com/0voice/backend_video#nav_1_middleware_development_081  videos of the backend learning
   + https://github.com/0voice/newsql_nosql_library DB
   + https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts and its issues
-+ [temp] a book comment https://github.com/baohenglin/ShuXiangChaYunRunRenSheng/blob/master/%E3%80%8A%E4%B9%A6%E9%A6%99%E8%8C%B6%E9%9F%B5%E6%B6%A6%E4%BA%BA%E7%94%9F%E3%80%8B/%E3%80%8A%E5%A5%87%E7%89%B9%E7%9A%84%E4%B8%80%E7%94%9F%E3%80%8B/%E5%A5%87%E7%89%B9%E7%9A%84%E4%B8%80%E7%94%9F.md
+  + https://github.com/ivito  his forked repositories
+  + https://github.com/niudai  his repositories
+  + https://github.com/weiweifan/Big-Data-Resources  not many,to be choosen
+  
+## temp
++ a book comment https://github.com/baohenglin/ShuXiangChaYunRunRenSheng/blob/master/%E3%80%8A%E4%B9%A6%E9%A6%99%E8%8C%B6%E9%9F%B5%E6%B6%A6%E4%BA%BA%E7%94%9F%E3%80%8B/%E3%80%8A%E5%A5%87%E7%89%B9%E7%9A%84%E4%B8%80%E7%94%9F%E3%80%8B/%E5%A5%87%E7%89%B9%E7%9A%84%E4%B8%80%E7%94%9F.md
 + [temp] https://github.com/feilengcui008/distributed_system_readings
++ https://github.com/memect/hao
++ https://github.com/FangWW/Document 
++ https://github.com/liuyubobobo/Play-with-Graph-Algorithms
 
 ## Topic
 + SDK doc https://github.com/tencentyun/qcloud-documents/blob/master/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/%E9%9F%B3%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D.md
 + FlameGraph https://github.com/brendangregg/FlameGraph 
 + procrastination 拖延
   + 单核工作法  https://github.com/BetterTuring/turingWeChatGroups/blob/master/algorithms/%E7%AC%AC02%E6%9C%9F%E2%80%94%E5%8D%95%E6%A0%B8%E5%B7%A5%E4%BD%9C%E6%B3%95%E5%9B%BE%E8%A7%A3/%E5%8D%95%E6%A0%B8%E5%B7%A5%E4%BD%9C%E6%B3%95%E5%9B%BE%E8%A7%A3%20%E9%98%85%E8%AF%BB%E8%AE%A1%E5%88%92%E2%80%94%E9%98%BF%E7%8B%B8%E4%B8%8D%E6%AD%8C.md 
++ https://github.com/greatghoul/remote-working  remote job
   
 + blog
   + https://github.com/hello2dj/blog
@@ -117,6 +144,7 @@
   + https://github.com/apachecn/Interview
   + [temp] https://github.com/DWCTOD/interview
   + [temp] http://paulrougieux.github.io/vim.html  vim and linux tools
+  + https://github.com/youngyangyang04/leetcode-master algothrim
   
   
 
