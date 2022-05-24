@@ -33,6 +33,7 @@
 + https://github.com/ivito/cookbook  old computer books （8 years ago）
 + https://github.com/julycoding/The-Art-Of-Programming-By-July
 + https://github.com/Clloz/booklist
++ https://github.com/SuperCV/Book
 + 
 ## Document
 + web https://developer.mozilla.org/
