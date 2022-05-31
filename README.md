@@ -21,6 +21,7 @@
 + cloud https://github.com/apachecn/CDNDrive  https://github.com/Hsury/BiliDrive/  https://github.com/huqianshan/BiliDrive-Minus
 + [temp] https://github.com/akinohana/BuMoyu
 + py https://github.com/brentvollebregt/auto-py-to-exe
++ https://github.com/xvoland/Extract  shell cmds
 
 ## Ebooks
 +  Ruan yifeng  https://github.com/ruanyf/free-books
