@@ -80,6 +80,7 @@
 + https://github.com/niudai/How-to-be-a-good-programmer
 + https://github.com/USTC-Resource/USTC-Course
 + https://github.com/GeLee-Q/OI_Sharing
++ https://github.com/xingshaocheng/architect-awesome
 
 
 ## Projects
