@@ -113,7 +113,7 @@
   + https://github.com/weiweifan/Big-Data-Resources  not many,to be choosen
   + https://github.com/allwefantasy/my-life good story and worth reading
   + https://github.com/xiaolai/reborn  李笑来 xiaolai.github.io
-  
+  + https://zhouzhaoji.github.io/  good blog style
 ## temp
 + a book comment https://github.com/baohenglin/ShuXiangChaYunRunRenSheng/blob/master/%E3%80%8A%E4%B9%A6%E9%A6%99%E8%8C%B6%E9%9F%B5%E6%B6%A6%E4%BA%BA%E7%94%9F%E3%80%8B/%E3%80%8A%E5%A5%87%E7%89%B9%E7%9A%84%E4%B8%80%E7%94%9F%E3%80%8B/%E5%A5%87%E7%89%B9%E7%9A%84%E4%B8%80%E7%94%9F.md
 + [temp] https://github.com/feilengcui008/distributed_system_readings
