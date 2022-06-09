@@ -45,6 +45,7 @@
   + https://github.com/apachecn/home/tree/master/docs
 + https://github.com/aosabook/500lines
 + https://github.com/shlomi-noach/awesome-mysql
+ 
 ## Math
 + https://github.com/rossant/awesome-math
 + https://agrothendieck.github.io/   the files of alex grothendieck, good style and font
@@ -81,7 +82,8 @@
 + https://github.com/USTC-Resource/USTC-Course
 + https://github.com/GeLee-Q/OI_Sharing
 + https://github.com/xingshaocheng/architect-awesome
-+ https://github.com/codecrafters-io/build-your-own-x  【good】
++ https://github.com/codecrafters-io/build-your-own-x  【good to practice 】
++ https://github.com/hellokuls/python-course flask django spider
 
 ## Projects
 + 《自己动手实现Lua》随书源代码 https://github.com/zxh0/luago-book
@@ -120,6 +122,7 @@
 + https://github.com/memect/hao
 + https://github.com/FangWW/Document 
 + https://github.com/liuyubobobo/Play-with-Graph-Algorithms
++ https://github.com/mingyun/mingyun.github.io/issues/92 ！！！【useful】catalogs of many urls
 
 ## Topic
 + SDK doc https://github.com/tencentyun/qcloud-documents/blob/master/%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E/%E9%9F%B3%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D.md
@@ -147,6 +150,7 @@
 
 ## Others
   + https://github.com/CyC2018/CS-Notes
+  + https://github.com/lietoumai/Awesome-offer interview and prepare
   + 💖 https://github.com/ossu
   + [💖] https://github.com/freeCodeCamp/freeCodeCamp
   + https://github.com/taizilongxu/interview_python
