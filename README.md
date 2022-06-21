@@ -45,6 +45,7 @@
   + https://github.com/apachecn/home/tree/master/docs
 + https://github.com/aosabook/500lines
 + https://github.com/shlomi-noach/awesome-mysql
++ pythondoc.com
  
 ## Math
 + https://github.com/rossant/awesome-math
@@ -84,6 +85,7 @@
 + https://github.com/xingshaocheng/architect-awesome
 + https://github.com/codecrafters-io/build-your-own-x  【good to practice 】
 + https://github.com/hellokuls/python-course flask django spider
++ https://github.com/qinacme/awesome-courses
 
 ## Projects
 + 《自己动手实现Lua》随书源代码 https://github.com/zxh0/luago-book
