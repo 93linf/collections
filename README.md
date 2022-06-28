@@ -34,6 +34,7 @@
 + https://github.com/ivito/cookbook  old computer books （8 years ago）
 + https://github.com/julycoding/The-Art-Of-Programming-By-July
 + https://github.com/Clloz/booklist
++ https://relph1119.github.io/mysql-learning-notes/#/mysql/00-%E4%B8%87%E9%87%8C%E9%95%BF%E5%BE%81%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%88%E9%9D%9E%E5%B8%B8%E9%87%8D%E8%A6%81%EF%BC%89-%E5%A6%82%E4%BD%95%E6%84%89%E5%BF%AB%E7%9A%84%E9%98%85%E8%AF%BB%E6%9C%AC%E5%B0%8F%E5%86%8C
 + https://github.com/SuperCV/Book
 + 
 ## Document
@@ -86,6 +87,7 @@
 + https://github.com/codecrafters-io/build-your-own-x  【good to practice 】
 + https://github.com/hellokuls/python-course flask django spider
 + https://github.com/qinacme/awesome-courses
++ https://github.com/prakhar1989/awesome-courses
 
 ## Projects
 + 《自己动手实现Lua》随书源代码 https://github.com/zxh0/luago-book
