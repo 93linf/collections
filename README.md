@@ -24,6 +24,7 @@
 + https://github.com/xvoland/Extract  shell cmds
 + https://github.com/huggingface/transformers/blob/main/README_zh-hans.md AI models
 + [temp] https://github.com/jhao104/proxy_pool 
++ https://github.com/fighting41love/funNLP vocabulary 
 
 ## Ebooks
 +  Ruan yifeng  https://github.com/ruanyf/free-books
