@@ -94,6 +94,7 @@
 + 💖 https://github.com/521xueweihan/HelloGitHub
 +   💖 https://gitee.com/rd2coding/Road2Coding
 + https://github.com/TonyChen56/160-Crackme
++ [TODO💖] https://github.com/qzq1111/flask-restful-example streamlined
 
 ## People
 + 💖 Friedcat  
