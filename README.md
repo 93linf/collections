@@ -22,6 +22,8 @@
 + [temp] https://github.com/akinohana/BuMoyu
 + py https://github.com/brentvollebregt/auto-py-to-exe
 + https://github.com/xvoland/Extract  shell cmds
++ https://github.com/huggingface/transformers/blob/main/README_zh-hans.md AI models
++ [temp] https://github.com/jhao104/proxy_pool 
 
 ## Ebooks
 +  Ruan yifeng  https://github.com/ruanyf/free-books
